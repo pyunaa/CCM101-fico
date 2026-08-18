@@ -24,17 +24,33 @@ At the end of this laboratory activity, you should be able to:
  Continue building a structured GitHub Cloud Computing Portfolio. 
 
 ## Cloud Infrastructure Components
-Compute, Storage, Networking, and Identity and Access Management (IAM)
+- Compute
+- Storage
+- Networking
+- Identity and Access Management (IAM)
 ## Tools Used
-KillerCoda Playground
-Ubuntu Linux
-GitHub
-GitHub Desktop
-Web Browser
-Markdown
-Draw.io
+- KillerCoda Playground
+- Ubuntu Linux
+- GitHub
+- GitHub Desktop
+- Web Browser
+- Markdown
+- Draw.io
 ## Linux Commands Executed
+```bash
+cat /etc/os-release
+uname -r lscpu 
+nproc
+free -h 
+df -h 
+findmnt
+hostname
+hostname -I
+ip addr
+```
 
 ## Skills Learned
+Through this laboratory activity, I learned how to investigate hardware and software resources in a Linux environment. I also improved my understanding of compute, storage, networking, and operating system resources in cloud infrastructure.
 
 ## Challenges Encountered
+One challenge I encountered during this laboratory was understanding the relationship between the Linux resources I observed and their roles in cloud infrastructure. I also had to become more familiar with Linux commands used to inspect system information.
