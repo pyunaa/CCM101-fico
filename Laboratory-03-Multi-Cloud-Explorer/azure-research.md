@@ -1,4 +1,4 @@
-# Microsoft Azure
+# MICROSOFT AZURE
 
 Microsoft Azure is a public cloud computing platform developed by Microsoft. Azure provides cloud services for computing, storage, networking, databases, security, artificial intelligence, analytics, containers, application development, and enterprise workloads. Azure is particularly useful for organizations that already use Microsoft technologies such as Windows Server, Microsoft 365, Active Directory, SQL Server, and other Microsoft enterprise products.
 
