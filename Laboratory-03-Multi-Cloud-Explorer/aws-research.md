@@ -1,4 +1,4 @@
-# AWS Research
+# AMAZON WEB SERVICES
 
 Amazon Web Services (AWS) is a public cloud computing platform provided by Amazon. AWS offers a large collection of cloud services that organizations can use to build, deploy, manage, and scale applications.
 AWS provides services for computing, storage, networking, databases, security, artificial intelligence, analytics, containers, and application development. AWS is widely used by startups, enterprises, government organizations, educational institutions, and technology companies.
@@ -137,7 +137,7 @@ AWS can be used for:
 
 ## AWS Screenshot
 
-![AWS Homepage](screenshots/aws.png)
+![AWS Homepage](screenshots/aws_homepage.png)
 
 
 ---
