@@ -134,9 +134,8 @@ Google Cloud can be used for:
 
 ## Google Cloud Screenshot
 
-![Google Cloud Homepage](screenshots/gcp-homepage.png)
+![Google Cloud Homepage](screenshots/gcp_homepage.png)
 
-The screenshot above shows the official Google Cloud website used during the research process.
 
 ---
 
