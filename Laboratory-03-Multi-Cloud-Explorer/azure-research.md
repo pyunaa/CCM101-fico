@@ -131,7 +131,7 @@ Azure can be used for:
 
 ## Azure Screenshot
 
-![Azure Homepage](screenshots/azure-homepage.png)
+![Azure Homepage](screenshots/azure_homepage.png)
 
 ---
 
