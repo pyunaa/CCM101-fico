@@ -33,7 +33,7 @@ Google Cloud is particularly strong in artificial intelligence, machine learning
 
 ## Question 4: Which cloud platform would you personally choose and why?
 
-I would personally choose Google Cloud for learning and developing cloud-native applications because of its strong focus on artificial intelligence, data analytics, and Kubernetes. These technologies are important areas in modern cloud computing and provide opportunities to develop skills that can be applied to future IT projects. However, I would still consider AWS or Azure when a project has specific requirements that better match their services or ecosystems.
+I would personally choose Google Cloud for learning and developing cloud-native applications because of its strong focus on artificial intelligence, data analytics, and Kubernetes. These technologies are important areas in modern cloud computing and provide opportunities to develop skills that can be applied to future IT projects.
 
 
 
