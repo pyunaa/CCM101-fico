@@ -1,6 +1,5 @@
 ## AWS vs Microsoft Azure vs Google Cloud Platform
 
-The three major cloud providers offer similar fundamental cloud capabilities. However, they differ in service portfolios, ecosystem integration, infrastructure, and areas of specialization.
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 |---|---|---|---|
