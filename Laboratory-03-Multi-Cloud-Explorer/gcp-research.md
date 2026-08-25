@@ -1,4 +1,4 @@
-# Google Cloud Platform
+# GOOGLE CLOUD PLATFORM
 
 Google Cloud Platform (GCP), commonly called Google Cloud, is a public cloud computing platform provided by Google.
 Google Cloud provides services for computing, storage, networking, databases, artificial intelligence, machine learning, analytics, containers, security, and application development.
