@@ -1,4 +1,4 @@
-# Client Recommendations
+# CLIENT RECOMMENDATION
 
 ## CloudNova Technologies – Cloud Platform Recommendation Challenge
 
