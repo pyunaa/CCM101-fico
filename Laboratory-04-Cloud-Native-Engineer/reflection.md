@@ -1,4 +1,4 @@
-# Docker Mission Reflection
+# Mission Reflection
 
 This laboratory activity helped me understand the difference between virtual machines and Docker containers. A Docker container can start faster than a virtual machine because it does not need to start a complete operating system. Instead, it uses the host computer's operating system and runs the application it needs. Installing an operating system on a virtual machine takes more steps, such as setting up storage and memory and waiting for the operating system to start. Docker can run an application quickly using a prepared image.
 
