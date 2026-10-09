@@ -1,0 +1,11 @@
+# Mission Reflection
+
+This laboratory activity helped me understand how Docker Compose makes cloud deployment easier and more organized. Instead of running separate commands for every container, I learned that I can define the services, images, environment variables, and port mappings in one `docker-compose.yml` file. With a single command, `docker-compose up -d`, I can deploy the Nextcloud application and MariaDB database together. This approach reduces repetitive work and makes the deployment easier to repeat.
+
+I also learned that YAML indentation is very important. If I use incorrect spacing or a Tab instead of spaces, Docker Compose may report a configuration error or interpret the file incorrectly. This taught me to be careful when writing configuration files and to check the structure before deploying an application.
+
+Environment variables are useful because they allow containers to receive the configuration values they need. In this project, variables such as `MYSQL_DATABASE`, `MYSQL_USER`, and `MYSQL_PASSWORD` tell Nextcloud which database and credentials to use. The `MYSQL_HOST=database` setting allows Nextcloud to locate the MariaDB service through the Docker Compose network. However, I also realized that example passwords should be replaced with stronger secrets in a real deployment.
+
+Deploying Nextcloud was an exciting experience because it showed me how a private cloud storage system can be prepared in just a few minutes. I gained a better understanding of how the application and database work together to provide a service to users. I also learned that deploying the containers is only one part of the process; testing, security, persistent storage, and maintenance are important too.
+
+Since Mission 1, my understanding of cloud computing has developed from learning basic concepts to performing practical deployments. I now understand more clearly how containers, networks, and configuration files work together. This mission also introduced me to Infrastructure as Code, which helps make deployments consistent and manageable. Overall, the activity improved my confidence in using Linux commands, Docker Compose, and GitHub to document my work as a developing cloud engineer.
