@@ -17,3 +17,18 @@ docker logs clientwebsite
 
 Application logs are vital for troubleshooting because they record requests, errors, and other events that help identify what went wrong. By examining these logs, an administrator can investigate failed requests, determine possible causes, and take appropriate corrective action.
 
+## Real-Time Container Metrics
+
+Command executed:
+
+```bash
+docker stats
+```
+
+| Container ID | Name          | CPU % | Memory Usage / Limit | Memory % | Network I/O       | Block I/O    | PIDs |
+|--------------|---------------|------:|---------------------:|---------:|-------------------|--------------|-----:|
+| 3502e398a8b9 | clientwebsite | 0.00% | 2.727 MiB / 1.859 GiB | 0.14%   | 3.84 kB / 5.29 kB | 0 B / 12.3 kB | 2 |
+
+
+
+
