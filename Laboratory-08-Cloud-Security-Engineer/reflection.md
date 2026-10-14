@@ -1,0 +1,11 @@
+# Mission 8 Reflection: The Cloud Security Engineer
+
+Completing this laboratory activity helped me understand the importance of securing a server before exposing its services to a network. I learned that a host-based firewall provides an additional layer of protection by controlling incoming and outgoing network connections directly on the server. Even if the physical network perimeter is breached, the firewall can restrict unauthorized connections to services that are not explicitly permitted. This demonstrates the importance of defense in depth because security should not depend on a single protective measure.
+
+Managing open network ports is critical because every unnecessary open port can create another possible entry point for attackers. Services that are not needed should not be exposed to the network. By applying the Default Deny policy in UFW, I learned to block incoming traffic by default and allow only the connections required for legitimate operations. In this mission, SSH on port 22 was allowed for administration, while TCP port 8080 was allowed for the Nginx web application.
+
+In a real enterprise environment, leaving a database port such as 3306 for MySQL open to the public internet is dangerous. Attackers could attempt to guess passwords, exploit database vulnerabilities, or access sensitive information if the database is not properly secured. Database access should normally be restricted to authorized application servers, private networks, or approved administrative connections.
+
+This mission also changed my perspective on how easily a server can become exposed when security settings are neglected. Deploying a working web application is not enough; administrators must also review services, configure firewall rules, and regularly check their effectiveness. I also learned why SSH must be allowed before enabling UFW on a remotely managed server.
+
+Finally, having eight missions in my GitHub Cloud Computing portfolio gives me a better way to organize and demonstrate the technical skills I have developed. Each mission provides evidence of my learning, from cloud infrastructure and deployment to monitoring and security. I recognize that maintaining a secure cloud environment requires continuous monitoring, careful configuration, documentation, and improvement rather than a one-time setup.
