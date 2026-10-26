@@ -1,6 +1,5 @@
 # Laboratory 10 — The Enterprise Cloud Architect
 
-### 
 
 ### **Mission Overview**
 
@@ -32,31 +31,22 @@ Remember: An Architect does not follow a manual; they write it.
 
 
 
-* ###### &#x20;Conceptualize and diagram a custom enterprise cloud infrastructure.
-* ###### &#x20;Provision and configure a local Virtual Machine running a headless Linux distribution (Ubuntu Server).
-* ###### &#x20;Install and configure Docker and Docker Compose on a fresh operating system.
-* ###### &#x20;Deploy a multi-tier containerized application utilizing persistent data volumes without guided
-
-###### &#x20;   instructions.
-
-* ###### &#x20;Implement comprehensive system security and port management independently.
-* ###### &#x20;Automate operational tasks (such as disaster recovery or health checks) using custom Bash scripts and
-
-###### &#x20;   task scheduling.
-
-* ###### &#x20;Synthesize all technical documentation into a professional GitHub Cloud Computing Portfolio.
-* ###### &#x20;Demonstrate and defend your infrastructure live in a simulated corporate boardroom setting. 
-* 
+- Conceptualize and diagram a custom enterprise cloud infrastructure.
+- Provision and configure a local Virtual Machine running a headless Linux distribution (Ubuntu Server).
+- Install and configure Docker and Docker Compose on a fresh operating system.
+- Deploy a multi-tier containerized application utilizing persistent data volumes without guided instructions.
+- Implement comprehensive system security and port management independently.
+- Automate operational tasks (such as disaster recovery or health checks) using custom Bash scripts and task scheduling.
+- Synthesize all technical documentation into a professional GitHub Cloud Computing Portfolio.
+- Demonstrate and defend your infrastructure live in a simulated corporate boardroom setting. 
 
 ## **Required Resources**
 
-
-
-* ##### &#x20;Physical Hardware (Laptop/Computer)
-* ##### &#x20;Type 2 Hypervisor
-* ##### &#x20;College of Information Technology
-* ##### &#x20;Ubuntu Server ISO (Latest)
-* ##### &#x20;GitHub Account (Your existing portfolio repository)
-* ##### &#x20;Diagramming Tool (Draw.io, Excalidraw, or similar)
-* ##### &#x20;Modern Web Browser \& Stable Internet Connection 
+- Physical Hardware (Laptop/Computer)
+- Type 2 Hypervisor
+- College of Information Technology
+- Ubuntu Server ISO (Latest)
+- GitHub Account (Your existing portfolio repository)
+- Diagramming Tool (Draw.io, Excalidraw, or similar)
+- Modern Web Browser \& Stable Internet Connection 
 
